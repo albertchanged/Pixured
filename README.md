@@ -1,5 +1,3 @@
-# Pixured
-
-### Pixured Coding Challenge
+# Pixured Coding Challenge
 
 Solutions found in *src*.
