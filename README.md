@@ -1,3 +1,1 @@
-# Coding Challenge
-
-Solutions found in *src*.
+# Solutions found in *src*.
